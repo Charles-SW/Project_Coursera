@@ -6,8 +6,8 @@
 
 @media (max-width: 767px) {
 	.col {
-		margin: 5%;
-		width: 90%;
+		margin: 1.5%;
+		width: 97%;
 	}
 }
 
@@ -18,7 +18,7 @@
 	}
 	.p3 {
 		width: 95%;
-		margin: 2.5%;
+		margin: 0% 2.5% 0% 2.5%;
 	}
 }
 
@@ -53,7 +53,21 @@ h1 {
 
 }
 
+.t1 {
+	background-color: #03a9f4ab;
+}
+
+.t2 {
+	background-color: green;
+}
+
+.t3 {
+	background-color: red;
+}
+
 .article {
+	position: relative;
+	top: 10px;
 }
 
 
