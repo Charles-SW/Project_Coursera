@@ -1,0 +1,62 @@
+* {
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+@media (max-width: 767px) {
+	.col {
+		margin: 5%;
+		width: 90%;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.col {
+		width: 45%;
+		margin: 2.5%;
+	}
+	.p3 {
+		width: 95%;
+		margin: 2.5%;
+	}
+}
+
+@media (min-width: 992px) {
+	.col {
+		width: 30%;
+		margin: 1.6%;
+	}
+}
+
+h1 {
+	font-size: 175%;
+}
+
+.col {
+	border: 1px solid black !important;
+	position: relative;
+	float: left;
+}
+
+
+
+.title {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	background-color: green;
+	border: 1px solid black;
+	font-size: 120%;
+	width: 100px;
+
+}
+
+.article {
+}
+
+
+
+
+
