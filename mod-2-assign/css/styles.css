@@ -37,6 +37,7 @@ h1 {
 	border: 1px solid black !important;
 	position: relative;
 	float: left;
+	padding: 5px 10px 10px 10px;
 }
 
 
@@ -48,6 +49,7 @@ h1 {
 	margin: 0;
 	background-color: green;
 	border: 1px solid black;
+	padding: 3px 10px 3px 10px;
 	font-size: 120%;
 	width: 100px;
 
@@ -67,7 +69,7 @@ h1 {
 
 .article {
 	position: relative;
-	top: 10px;
+	top: 20px;
 }
 
 
